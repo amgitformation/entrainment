@@ -1,4 +1,3 @@
-Lina
 Arnaud
 # entrainment
 salut
